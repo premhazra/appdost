@@ -1,4 +1,4 @@
-# AppDost Frontend Assignment — Starter
+# AppDost
 
 What I included
 - Vite + React scaffold
@@ -47,5 +47,3 @@ Next recommended steps (I can implement):
 - Add more listings and categories & backend mock (JSON server) for demo data.
 - Add unit/integration tests and simple CI via GitHub Actions.
 - Prepare a polished README with screenshots and deploy to Vercel/Netlify.
-
-Good luck, and feel free to ask me to extend or polish any part of the UI.
